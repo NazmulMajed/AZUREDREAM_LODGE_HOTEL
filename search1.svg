@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>icons8-search-svg</title>
+	<defs>
+		<image  width="50" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQMAAAAk8RryAAAAAXNSR0IB2cksfwAAAANQTFRF27BzC29pNQAAABBJREFUeJxjZIAAxlF6UNAAKWgAM4+4/dcAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+	<path fill-rule="evenodd" class="s0" d="m38 20c0 4.2-1.5 8.1-4.1 11.1l13 13-2.8 2.8-13.2-13.1c-2.8 2-6.2 3.2-9.9 3.2-9.4 0-17-7.6-17-17 0-9.4 7.6-17 17-17 9.4 0 17 7.6 17 17zm-32 0c0 8.3 6.7 15 15 15 8.3 0 15-6.7 15-15 0-8.3-6.7-15-15-15-8.3 0-15 6.7-15 15z"/>
+</svg>
